@@ -19,7 +19,7 @@
     "sass": "^1.54.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Akshay2224.github.io/home",
+  "homepage": "https://Akshay2224.github.io/portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

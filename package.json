@@ -3,6 +3,7 @@
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "version": "2.0.0",
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -29,10 +30,9 @@
     "eject": "react-scripts eject",
     "custom-deploy": "node pages.js"
   },
-"engines": {
-  "node": "22.x",
-  "npm": "10.x"
-},
+  "engines": {
+    "node": "22.x"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",

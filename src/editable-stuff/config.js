@@ -19,7 +19,7 @@ const mainBody = {
     {
       image: "fa-linkedin",
       // Your resume just says “LinkedIn” (no URL). Keeping your existing LinkedIn URL.
-      url: "https://www.linkedin.com/in/akshay-k-336149356/",
+      url: "https://www.linkedin.com/in/akshay-khan-97988a390/",
     },
   ],
 };

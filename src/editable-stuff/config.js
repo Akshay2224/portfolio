@@ -33,7 +33,7 @@ const about = {
     "I’m Akshay Khan, a Software Developer focused on building reliable, high-performance backend systems. I work primarily with Java (17/21), Spring Boot/Spring Cloud, microservices, REST/GraphQL APIs, and event-driven systems using Kafka/RabbitMQ. I’ve deployed and operated services on AWS/Azure/GCP with Docker, Kubernetes, and CI/CD pipelines, and I care about security, observability, and performance tuning.",
   // Keep your existing resume link unless you want to replace it with a new one.
   resume:
-    "https://drive.google.com/file/d/1_0N4YJmh3gkAr_9FbT5H7IK0iwM-H7vZ/view?usp=sharing",
+    "https://drive.google.com/file/d/1PusxVJet0qK-Qw1bLRnO67aLpJ7gUybt/view?usp=sharing",
 };
 
 const repos = {
